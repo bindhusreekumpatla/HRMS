@@ -1,0 +1,24 @@
+[33mcommit 1471fe56b9d2d2d69517e2d67670992e4c86fcc2[m[33m ([m[1;36mHEAD -> [m[1;32mola[m[33m)[m
+Merge: a0aed72 995a373
+Author: bindhusreekumpatla <bindusreekumpatla@gmail.com>
+Date:   Sun Oct 3 14:29:48 2021 +0530
+
+    Merge branch 'core' into ola
+
+[33mcommit a0aed7259b51cd4680738ae39435b44c2f7997ff[m
+Author: bindhusreekumpatla <bindusreekumpatla@gmail.com>
+Date:   Thu Sep 30 21:37:12 2021 +0530
+
+    feature ola.py
+
+[33mcommit 995a373b5a9c4cd403b0cadd203117952edd15fd[m[33m ([m[1;32mcore[m[33m)[m
+Author: bindhusreekumpatla <bindusreekumpatla@gmail.com>
+Date:   Thu Sep 30 21:22:50 2021 +0530
+
+    frature core.py
+
+[33mcommit 55e4e8b0e191302a62ab3a7587df786c39058f41[m[33m ([m[1;32mrapido[m[33m, [m[1;32mmaster[m[33m)[m
+Author: bindhusreekumpatla <bindusreekumpatla@gmail.com>
+Date:   Thu Sep 30 21:08:41 2021 +0530
+
+    feature main.py
